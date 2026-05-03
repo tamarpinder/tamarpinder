@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Tamar Pinder — Builder · Founder · Santo Domingo" width="100%"/>
+  <img src="./assets/banner.svg" alt="Tamar Pinder. Builder · Founder · Santo Domingo" width="100%"/>
 </div>
 
 <br/>
 
-Solo developer based in Santo Domingo, shipping full production software for the Caribbean. I build the whole stack — database schema, customer apps, vendor dashboards, admin panels, payment rails, deploys — for my own products and for clients. Currently running my main bet alongside three live engagements. The work is the lifestyle: sixteen hours at the keyboard, one in the gym, the rest is sleep.
+Solo developer based in Santo Domingo, shipping full production software for the Caribbean. I build the whole stack: database schema, customer apps, vendor dashboards, admin panels, payment rails, deploys. Own products, client work, all of it. Currently running my main bet alongside three live engagements. The work is the lifestyle: sixteen hours at the keyboard, one in the gym, the rest is sleep.
 
 <br/>
 
 ## <samp>NOW</samp>
 
-- Polishing FemFuel post-launch — UX refinements, content, conversion details
+- Polishing FemFuel post-launch: UX refinements, content, conversion details
 - Recording the first wave of customer onboarding videos
 - Architecting Kalypso's wallet + virtual-account stack
 - Active engagement on a heavy-machinery rental admin platform
@@ -24,12 +24,12 @@ Solo developer based in Santo Domingo, shipping full production software for the
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://femfuel.do">FemFuel Beauty</a> &nbsp;<sub><code>LIVE · PRIMARY</code></sub></h3>
-      <p>The booking layer for the Dominican beauty market. Three apps — customer, vendor, admin — Stripe payments under a Pattern A merchant-of-record model, full RNC compliance, vendor wallet with ITBIS transparency, courier dispatch for product orders. Spanish-first, brand-aligned end to end.</p>
+      <p>The booking layer for the Dominican beauty market. Three apps (customer, vendor, admin), Stripe payments under a Pattern A merchant-of-record model, full RNC compliance, vendor wallet with ITBIS transparency, courier dispatch for product orders. Spanish-first, brand-aligned end to end.</p>
       <p><sub><code>Next.js 15 · React 19 · Supabase · Stripe · Tailwind v4</code></sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>Kalypso &nbsp;<sub><code>BUILDING</code></sub></h3>
-      <p>Crypto on-ramp / off-ramp for the Caribbean. Crypto credit cards, virtual US accounts, custody wallet, and crypto ATMs on the roadmap. Designed for Caribbean fiat rails first, not retrofitted from US-only infra.</p>
+      <p>Crypto on-ramp / off-ramp for the Caribbean. Crypto credit cards, virtual US accounts, custody wallet, and crypto ATMs on the roadmap. Caribbean fiat rails first. Built native to the region from the schema up.</p>
       <p><sub><code>Wallet · Custody · Virtual Accounts · Card Issuing</code></sub></p>
     </td>
   </tr>
@@ -67,15 +67,15 @@ Off-keys   Gym daily · Caribbean coffee · No social media noise
 <table>
   <tr>
     <td><strong>Solo developer.</strong></td>
-    <td>Every line shipped is mine. I run a tight workflow with Claude as my pair — architecture, debugging, design reviews, second opinions — but the calls and the code are mine. Disciplined process, real leverage.</td>
+    <td>Every line shipped is mine. I run a tight workflow with Claude as my pair for architecture, debugging, design reviews, and second opinions. The calls and the code stay mine. Disciplined process, real leverage.</td>
   </tr>
   <tr>
     <td><strong>End-to-end.</strong></td>
-    <td>Database schema to deploy. Customer app, vendor dashboard, admin panel, payment rails — all built and shipped together. No half-finished prototypes, no tomorrow's-problem architecture.</td>
+    <td>Database schema to deploy. Customer app, vendor dashboard, admin panel, payment rails: all built and shipped together. No half-finished prototypes. No tomorrow's-problem architecture.</td>
   </tr>
   <tr>
-    <td><strong>Caribbean-first, not Caribbean-also.</strong></td>
-    <td>Most fintech and SaaS treats LATAM as a bolt-on. I design for it from the schema up — RNC validation, ITBIS handling, DOP-native math, Spanish-first UX.</td>
+    <td><strong>Caribbean-native.</strong></td>
+    <td>Most fintech and SaaS treats LATAM as a bolt-on. I design for it from the schema up: RNC validation, ITBIS handling, DOP-native math, Spanish-first UX.</td>
   </tr>
   <tr>
     <td><strong>Taste matters.</strong></td>
