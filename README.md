@@ -22,26 +22,33 @@ Solo developer based in Santo Domingo, shipping full production software for the
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3><a href="https://femfuel.do">FemFuel Beauty</a> &nbsp;<sub><code>LIVE · PRIMARY</code></sub></h3>
       <p>The booking layer for the Dominican beauty market. Three apps (customer, vendor, admin), Stripe payments under a Pattern A merchant-of-record model, full RNC compliance, vendor wallet with ITBIS transparency, courier dispatch for product orders. Spanish-first, brand-aligned end to end.</p>
       <p><sub><code>Next.js 15 · React 19 · Supabase · Stripe · Tailwind v4</code></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>Kalypso &nbsp;<sub><code>BUILDING</code></sub></h3>
+      <h3><a href="https://kalypso-frontend.vercel.app/">Kalypso</a> &nbsp;<sub><code>BUILDING</code></sub></h3>
       <p>Crypto on-ramp / off-ramp for the Caribbean. Crypto credit cards, virtual US accounts, custody wallet, and crypto ATMs on the roadmap. Caribbean fiat rails first. Built native to the region from the schema up.</p>
       <p><sub><code>Wallet · Custody · Virtual Accounts · Card Issuing</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://mypredicta-census.vercel.app/en">MyPredicta</a> &nbsp;<sub><code>SHIPPED</code></sub></h3>
+      <p>Census and predictive-data platform with multi-language support. Surveys, segmentation, and reporting in a single operator dashboard.</p>
+      <p><sub><code>Next.js · i18n · Data tooling</code></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Dauro &nbsp;<sub><code>SHIPPED · CLIENT</code></sub></h3>
+      <h3><a href="https://dauro-admin.vercel.app/en/login">Dauro</a> &nbsp;<sub><code>SHIPPED · CLIENT</code></sub></h3>
       <p>End-to-end rental car booking platform for a Dominican client. Customer-facing reservation flow plus full admin panel for fleet, pricing, and bookings.</p>
       <p><sub><code>Next.js · Postgres · Admin tooling</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Heavy Machinery Platform &nbsp;<sub><code>ACTIVE · CLIENT</code></sub></h3>
-      <p>Rental + dispatch frontend and admin panel for a heavy-equipment operator. In active development.</p>
+      <h3><a href="https://tnb-heavy-machinery.vercel.app/">Heavy Machinery Platform</a> &nbsp;<sub><code>ACTIVE · CLIENT</code></sub></h3>
+      <p>Rental and dispatch frontend with full admin panel for a heavy-equipment operator. In active development.</p>
       <p><sub><code>Next.js · Operations dashboards</code></sub></p>
     </td>
   </tr>
