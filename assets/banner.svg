@@ -46,7 +46,7 @@
 
   <!-- status pill -->
   <g transform="translate(80, 304)">
-    <rect width="138" height="24" rx="12" fill="#0a0a0a" stroke="#00d9ff" stroke-width="1"/>
+    <rect width="172" height="24" rx="12" fill="#0a0a0a" stroke="#00d9ff" stroke-width="1"/>
     <circle cx="14" cy="12" r="4" fill="#00d9ff">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
