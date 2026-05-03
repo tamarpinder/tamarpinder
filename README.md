@@ -4,7 +4,7 @@
 
 <br/>
 
-Solo developer based in Santo Domingo, shipping full production software for the Caribbean. I build the whole stack: database schema, customer apps, vendor dashboards, admin panels, payment rails, deploys. Own products, client work, all of it. Currently running my main bet alongside three live engagements. The work is the lifestyle: sixteen hours at the keyboard, one in the gym, the rest is sleep.
+Solo developer based in Santo Domingo, but from The Bahamas; shipping full production software for the Caribbean. I build the whole stack: database schema, customer apps, vendor dashboards, admin panels, payment rails, deploys. Own products, client work, all of it. Currently running my main bet alongside three live engagements. The work is the lifestyle: sixteen hours at the keyboard, one in the gym, the rest is sleep.
 
 <br/>
 
@@ -95,13 +95,18 @@ Off-keys   Gym daily · Caribbean coffee · No social media noise
 ## <samp>SIGNALS</samp>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamarpinder&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00d9ff&icon_color=00d9ff&text_color=e6edf3&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com/?user=tamarpinder&hide_border=true&background=0a0a0a&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=e6edf3&stroke=00d9ff" height="170" alt="GitHub streak"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamarpinder&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00d9ff&text_color=e6edf3&langs_count=8" height="160" alt="Top languages"/>
-</p>
+```
+BUILD PULSE
+───────────
+Mode          Solo · all three repos in parallel
+Cadence       Daily commits · merged via squash PRs
+Stack focus   Next.js · Supabase · Stripe · TypeScript
+On the bench  Apple Pay rollout · Kalypso wallet · MyPredicta v2
+Last shipped  FemFuel Beauty production launch
+```
 
 <br/>
 
@@ -119,8 +124,8 @@ Off-keys   Gym daily · Caribbean coffee · No social media noise
 ## <samp>CONNECT</samp>
 
 <p>
-  <a href="https://femfuel.do"><code>femfuel.do</code></a> &nbsp;·&nbsp;
-  <a href="mailto:tamarpinder@gmail.com"><code>tamarpinder@gmail.com</code></a> &nbsp;·&nbsp;
+  <a href="https://kleverr.io"><code>kleverr.io</code></a> &nbsp;·&nbsp;
+  <a href="mailto:tamar@kleverr.io"><code>tamar@kleverr.io</code></a> &nbsp;·&nbsp;
   <a href="https://github.com/tamarpinder"><code>github / tamarpinder</code></a>
 </p>
 
